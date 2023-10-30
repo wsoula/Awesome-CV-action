@@ -1,9 +1,9 @@
-name: 'Awesome CV Builder'
-author: 'Olivier Rodomond'
+name: 'Awesome CV Builder Fix'
+author: 'wsoula'
 branding:
   icon: 'file-plus'
   color: 'orange'
-description: 'Automate your Awesome CV resume and keep it up to date.'
+description: 'Fix for Awesome CV Builder.  Automate your Awesome CV resume and keep it up to date.'
 inputs:
   FILE_NAME:
     description: 'The filename of your latex document within your repository (Ex: resume.tex)'
